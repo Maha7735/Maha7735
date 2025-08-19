@@ -1,8 +1,9 @@
-<h1 align="left">Hi 👋.</h1>
+<h1 align="left">Hi 👋, I'm Maha</h1>
 
 ###
 
-<h3 align="left">My name is Maha, and I'm a Frontend developer from Hail.</h3>
+<h3 align="center">Frontend developer 💻 | Web interface design </h3>
+<h3 align="center">UI/UX Designer🎨 </h3>
 
 ###
 
