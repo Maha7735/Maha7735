@@ -5,12 +5,6 @@
 <h3 align="center">Frontend developer 💻 | Web interface design </h3>
 <h3 align="center">UI/UX Designer🎨 </h3>
 
-###
-
-<p align="left">I also work on web interface design.</p>
-
-###
-
 <br clear="both">
 
 <div align="center">
