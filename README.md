@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Frontend developer 💻 | Web interface design </h1>
+<h3 align="center">Frontend developer 💻 | Web interface design </h3>
 <h3 align="center">UI/UX Designer🎨 </h3>
 
 <br clear="both">
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Frontend Developer.<br>🎯 Goals: I want to be a great Frontend & Backend developer.</p>
+<p align="left">📚 I am currently learning front-end development.<br>🎯 Goals: I want to be a great Frontend & Backend developer.</p>
 
 ###
 
