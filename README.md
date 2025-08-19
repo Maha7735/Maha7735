@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Maha, and I'm a Frontend developer from hail.</h3>
+<h3 align="left">My name is Maha, and I'm a Frontend developer from Hail.</h3>
 
 ###
 
