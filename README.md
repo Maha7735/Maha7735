@@ -2,22 +2,22 @@
 
 ###
 
-<h2 align="center">Frontend developer 💻 | Web interface design </h2>
+<h3 align="center">Frontend developer 💻 | Web interface design </h3>
 <h3 align="center">UI/UX Designer🎨 </h3>
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tlZHZ5cHFpbnJzdWV2aTdzc2h1anl4eHd3dGNlNmp4bGlhZDVsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"  />
 </div>
 
 ###
 
-<h1 align="center">About me</h1>
+<h1 align="left">About me</h1>
 
 ###
 
-<p align="center">📚 I'm currently learning Frontend Developer.<br>🎯 Goals: I want to be a great Frontend & Backend developer.</p>
+<p align="left">📚 I'm currently learning Frontend Developer.<br>🎯 Goals: I want to be a great Frontend & Backend developer.</p>
 
 ###
 
