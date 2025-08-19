@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Frontend developer 💻 | Web interface design </h3>
+<h1 align="center">Frontend developer 💻 | Web interface design </h1>
 <h3 align="center">UI/UX Designer🎨 </h3>
 
 <br clear="both">
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h1 align="left">I code with</h1>
 
 ###
 
